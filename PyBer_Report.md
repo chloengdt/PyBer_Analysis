@@ -28,4 +28,4 @@
 ### Recomendations: 
 - Focus on expand ride share service in Urban cities since there are high demand and high employee resouces. 
 - Not recomend to invest in rural cities since there are low demand and less drives, the cost is high and revenue is low. 
-- Can consider increase the ride share in March and begining of each month since the demand trends are at peak at those timeframes. 
+- Can consider increase the ride share in March and begining of each month since the demand trends are at peak at those timeframes and reduce the number of hiring drivers at the end of the month since the demands are low to save the cost. 
