@@ -19,7 +19,7 @@
 
 ### Based on the line graph, we can conclude:
 - Urban cities: fares are highest in the beginning of the month and lower at the end of the month. Fares are highest in March and very flutuated. 
-- Suburban cities: fares less flutuatied by time of the month, however, the peak price of fares are in March. 
+- Suburban cities: fares less fluctuated by time of the month, however, the peak price of fares are in March. 
 - Rural cities: fares changes more frequently by the time of the month but less dramatic than other city types. 
 
 ## Summary 
